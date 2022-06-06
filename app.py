@@ -11,7 +11,7 @@ hoteis = [
         'nome': 'Alpha Hotel',
         'estrelas': 4.3,
         'diaria': 420.34,
-        'cidade': 'Rio de Janeiro'
+        'cidade': 'FOÇA DO IGUAÇU'
     },
     {
         'hotel_id': 'bravo',
